@@ -7,3 +7,4 @@
 * git commit -m "comment"
 * git remote url
 * git push origin master
+* git clone url
